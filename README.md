@@ -1,6 +1,6 @@
 # Double_difference_relative_positioning
 This repository contains MATLAB code and documentation for an exercise focused on processing Global Navigation Satellite Systems (GNSS) data. The exercise covers topics such as double differences (DD), stochastic modeling, cycle slips detection, and triple differences (TD). The code includes routines for generating DD, detecting and correcting cycle slips, computing DD ambiguities, and plotting DD observations.
-# GNSS Data Processing Exercise
+
 
 ## Overview
 
