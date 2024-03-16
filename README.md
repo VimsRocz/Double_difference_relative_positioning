@@ -46,7 +46,7 @@ This repository contains MATLAB code and documentation for an exercise focused o
 
 ## Contributors
 
-- [Your Name]
+- Vimal
 
 ## License
 
